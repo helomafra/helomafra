@@ -1,7 +1,7 @@
 
 <div display="inline-block">
  
- <h1 align="center" style="margin-left: 20px">Hi, thank you for stopping by. 👋 </h1>
+ <h1 align="center" style="margin-left: 20px">Yey! Thank you for stopping by. 👋 </h1>
  <h3 align="center">  💻 I'm a Web Developer and engineering student. </h3>
 </div>
 
