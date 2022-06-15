@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**helomafra/helomafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div display="inline-block">
+ 
+ <h1 align="center" style="margin-left: 20px">Hi, thank you for stopping by. 👋 </h1>
+ <h3 align="center">  💻 I'm a Web Developer and engineering student. </h3>
+</div>
 
-Here are some ideas to get you started:
+<div align="center"  display="inline-block">
+ 
+>
+  
+ My coding tecnologies are `.js`, `.html` and `.css` <br>
+ I'm also falling in love for `React` and `Node.js` 💜 <b> <br>
+ <br>
+  <a href="https://www.linkedin.com/in/heloisa-mafra/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+</div>
