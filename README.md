@@ -12,7 +12,7 @@
  My coding tecnologies are `.js`, `.html` and `.css` <br>
  I'm also falling in love for `React` and `Node.js` 💜 <b> <br>
  <br>
-  <a href="https://www.linkedin.com/in/heloisa-mafra/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a  href="https://www.linkedin.com/in/heloisa-mafra/" target="_blank"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
 
 ##
