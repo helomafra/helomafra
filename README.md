@@ -12,7 +12,7 @@
  <br> 
  I am an avid reader; I love music, rainy days and deep conversations about everything with anyone. 🌱
  <br>
-  <a  href="https://www.linkedin.com/in/heloisa-mafra/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a  href="https://www.linkedin.com/in/heloisamcosta/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
 
 ##
