@@ -10,7 +10,7 @@
  My coding tecnologies are `.js`, `React`, `Node.js` and `TypeScript` 💜 
 
  <br> 
- I am an avid reader; I love music, rainy days and deep conversations about everything with anyone. 🌱
+ I am an avid reader; I love music and rainy days. 🌱
  <br>
   <a  href="https://www.linkedin.com/in/heloisamcosta/"><img align="right" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </div>
