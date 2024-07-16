@@ -2,7 +2,7 @@
 <div display="inline-block">
  
  <h1 align="center" style="margin-left: 20px">Yey! Thank you for stopping by. 👋 </h1>
- <h3 align="center">  💻 I'm a FullStack developer </h3>
+ <h3 align="center">  💻 I'm a Full Stack Software Developer </h3>
 </div>
 
 <div align="center"  display="inline-block">
