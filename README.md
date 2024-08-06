@@ -7,7 +7,7 @@
 
 <div align="center"  display="inline-block">
 
- My coding tecnologies are `.js`, `React`, `Node.js` and `TypeScript` 💜 
+ My coding tecnologies are `.js`, `React`, `React Native`, `Node.js` and `TypeScript` 💜 
 
  <br> 
  I am an avid reader; I love music and rainy days. 🌱
